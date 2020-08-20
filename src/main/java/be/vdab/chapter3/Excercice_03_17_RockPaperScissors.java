@@ -3,7 +3,7 @@ package be.vdab.chapter3;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Excercice_03_17 {
+public class Excercice_03_17_RockPaperScissors {
 
     /*
     (Game: scissor, rock, paper) Write a program that plays the popular scissor–rock– paper game.
