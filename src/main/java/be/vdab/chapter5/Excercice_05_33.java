@@ -5,7 +5,6 @@ public class Excercice_05_33 {
 
         for (double i = 0.0; i < 7; i++) {
             for (double j = 0.0; j < 7; j++) {
-                if (i/j == )
 
             }
 
