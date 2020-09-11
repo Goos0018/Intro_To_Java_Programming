@@ -1,3 +1,4 @@
+/*
 package be.vdab.chapter21;
 
 import java.io.File;
@@ -37,3 +38,4 @@ public class Excercice_21_04_CountConsonantsAndVowels {
         }
     }
 }
+*/
